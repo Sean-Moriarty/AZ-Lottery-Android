@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{6C0BA58F-3F19-49F8-9869-BF5ACAB3F6CA}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ArizonaLotteryApp/MainActivity.cs" Line="40" Column="15" />
+      <File FileName="ArizonaLotteryApp/PowerBall.cs" Line="29" Column="39" />
+      <File FileName="ArizonaLotteryApp/MegaMillions.cs" Line="32" Column="39" />
+      <File FileName="ArizonaLotteryApp/ThePick.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ArizonaLotteryApp AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>
